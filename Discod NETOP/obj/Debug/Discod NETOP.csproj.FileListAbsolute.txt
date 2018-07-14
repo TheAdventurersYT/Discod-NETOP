@@ -1,0 +1,15 @@
+D:\dev\Discod NETOP\Discod NETOP\bin\Debug\Discod NETOP.exe.config
+D:\dev\Discod NETOP\Discod NETOP\bin\Debug\Discod NETOP.exe
+D:\dev\Discod NETOP\Discod NETOP\bin\Debug\Discod NETOP.pdb
+D:\dev\Discod NETOP\Discod NETOP\bin\Debug\DiscordNETOP.Core.dll
+D:\dev\Discod NETOP\Discod NETOP\bin\Debug\DiscordNETOP.Core.pdb
+D:\dev\Discod NETOP\Discod NETOP\obj\Debug\Discod NETOP.csprojAssemblyReference.cache
+D:\dev\Discod NETOP\Discod NETOP\obj\Debug\DiscordNETOP.Properties.Resources.resources
+D:\dev\Discod NETOP\Discod NETOP\obj\Debug\Discod NETOP.csproj.GenerateResource.cache
+D:\dev\Discod NETOP\Discod NETOP\obj\Debug\Discod NETOP.csproj.CoreCompileInputs.cache
+D:\dev\Discod NETOP\Discod NETOP\obj\Debug\Discod NETOP.csproj.CopyComplete
+D:\dev\Discod NETOP\Discod NETOP\obj\Debug\Discod NETOP.exe
+D:\dev\Discod NETOP\Discod NETOP\bin\Debug\DiscordNETOP.Core.dll.config
+D:\dev\Discod NETOP\bin\Discod NETOP.exe
+D:\dev\Discod NETOP\bin\Assets\alerts.json
+D:\dev\Discod NETOP\bin\Discod NETOP.exe.config

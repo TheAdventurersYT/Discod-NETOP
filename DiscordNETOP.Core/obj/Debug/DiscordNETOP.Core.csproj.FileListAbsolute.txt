@@ -1,0 +1,12 @@
+D:\dev\Discod NETOP\DiscordNETOP.Core\bin\Debug\DiscordNETOP.Core.dll
+D:\dev\Discod NETOP\DiscordNETOP.Core\bin\Debug\DiscordNETOP.Core.pdb
+D:\dev\Discod NETOP\DiscordNETOP.Core\obj\Debug\DiscordNETOP.Core.csprojAssemblyReference.cache
+D:\dev\Discod NETOP\DiscordNETOP.Core\obj\Debug\DiscordNETOP.Core.csproj.CoreCompileInputs.cache
+D:\dev\Discod NETOP\DiscordNETOP.Core\obj\Debug\DiscordNETOP.Core.dll
+D:\dev\Discod NETOP\DiscordNETOP.Core\obj\Debug\DiscordNETOP.Core.MainForm.resources
+D:\dev\Discod NETOP\DiscordNETOP.Core\obj\Debug\DiscordNETOP.Core.csproj.GenerateResource.cache
+D:\dev\Discod NETOP\DiscordNETOP.Core\obj\Debug\DiscordNETOP.Core.Properties.Resources.resources
+D:\dev\Discod NETOP\DiscordNETOP.Core\bin\Debug\DiscordNETOP.Core.dll.config
+D:\dev\Discod NETOP\bin\DiscordNETOP.Core.dll
+D:\dev\Discod NETOP\bin\Assets\alerts.json
+D:\dev\Discod NETOP\bin\DiscordNETOP.Core.dll.config
